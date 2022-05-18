@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Maximiliano Aguilar
+- 👀 I’m interested in technologies and applications
+- 🌱 I’m currently learning programin js, react and more....
